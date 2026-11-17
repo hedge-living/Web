@@ -1,0 +1,5 @@
+HEDGE site assets
+
+index (5).html is copied byte-for-byte from the uploaded HTML. No HTML, CSS, or JavaScript was modified.
+The assets folder contains the exact filenames referenced by the uploaded HTML, including logo variants cropped from the supplied current HEDGE lockup.
+Lifestyle/category imagery uses the HEDGE forest-green, warm-ivory, sandstone and natural-wood visual direction.
